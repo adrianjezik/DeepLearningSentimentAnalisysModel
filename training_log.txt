@@ -1,0 +1,40 @@
+2023-12-08 20:21:30,730 - WARNING - From C:\Users\ADRIAN\PycharmProjects\pythonProject\venv\lib\site-packages\keras\src\backend.py:873: The name tf.get_default_graph is deprecated. Please use tf.compat.v1.get_default_graph instead.
+
+2023-12-08 20:21:31,016 - WARNING - From C:\Users\ADRIAN\PycharmProjects\pythonProject\venv\lib\site-packages\keras\src\optimizers\__init__.py:309: The name tf.train.Optimizer is deprecated. Please use tf.compat.v1.train.Optimizer instead.
+
+2023-12-08 20:21:31,395 - WARNING - From C:\Users\ADRIAN\PycharmProjects\pythonProject\venv\lib\site-packages\keras\src\utils\tf_utils.py:492: The name tf.ragged.RaggedTensorValue is deprecated. Please use tf.compat.v1.ragged.RaggedTensorValue instead.
+
+2023-12-08 20:21:31,781 - WARNING - From C:\Users\ADRIAN\PycharmProjects\pythonProject\venv\lib\site-packages\keras\src\engine\base_layer_utils.py:384: The name tf.executing_eagerly_outside_functions is deprecated. Please use tf.compat.v1.executing_eagerly_outside_functions instead.
+
+2023-12-08 20:21:40,763 - INFO - Model trained successfully.
+2023-12-08 20:21:40,899 - INFO - Test Accuracy: 57.00%
+2023-12-08 20:21:41,318 - INFO - Opinia 1: This book was extraordinary, it fascinated me from the first to the last page.
+2023-12-08 20:21:41,318 - INFO - Opinia zaproponowana przez wytrenowany model: Negatywna
+2023-12-08 20:21:41,318 - INFO - Opinia 2: Well written, surprising plot twist, highly recommended!
+2023-12-08 20:21:41,318 - INFO - Opinia zaproponowana przez wytrenowany model: Pozytywna
+2023-12-08 20:21:41,318 - INFO - Opinia 3: Unfortunately, this book disappointed me. I had higher expectations.
+2023-12-08 20:21:41,318 - INFO - Opinia zaproponowana przez wytrenowany model: Pozytywna
+2023-12-08 20:21:41,318 - INFO - Opinia 4: Poorly written, the plot didn't keep me in suspense.
+2023-12-08 20:21:41,318 - INFO - Opinia zaproponowana przez wytrenowany model: Negatywna
+2023-12-08 20:21:41,318 - INFO - Opinia 5: A masterpiece of literature! I couldn't put it down, I really recommend it.
+2023-12-08 20:21:41,318 - INFO - Opinia zaproponowana przez wytrenowany model: Pozytywna
+2023-12-08 20:22:33,672 - WARNING - From C:\Users\ADRIAN\PycharmProjects\pythonProject\venv\lib\site-packages\keras\src\backend.py:873: The name tf.get_default_graph is deprecated. Please use tf.compat.v1.get_default_graph instead.
+
+2023-12-08 20:22:33,947 - WARNING - From C:\Users\ADRIAN\PycharmProjects\pythonProject\venv\lib\site-packages\keras\src\optimizers\__init__.py:309: The name tf.train.Optimizer is deprecated. Please use tf.compat.v1.train.Optimizer instead.
+
+2023-12-08 20:22:34,309 - WARNING - From C:\Users\ADRIAN\PycharmProjects\pythonProject\venv\lib\site-packages\keras\src\utils\tf_utils.py:492: The name tf.ragged.RaggedTensorValue is deprecated. Please use tf.compat.v1.ragged.RaggedTensorValue instead.
+
+2023-12-08 20:22:34,678 - WARNING - From C:\Users\ADRIAN\PycharmProjects\pythonProject\venv\lib\site-packages\keras\src\engine\base_layer_utils.py:384: The name tf.executing_eagerly_outside_functions is deprecated. Please use tf.compat.v1.executing_eagerly_outside_functions instead.
+
+2023-12-08 20:22:43,695 - INFO - Model trained successfully.
+2023-12-08 20:22:43,823 - INFO - Test Accuracy: 57.00%
+2023-12-08 20:22:44,243 - INFO - Opinia 1: This book was extraordinary, it fascinated me from the first to the last page.
+2023-12-08 20:22:44,243 - INFO - Opinia zaproponowana przez wytrenowany model: Pozytywna
+2023-12-08 20:22:44,243 - INFO - Opinia 2: Well written, surprising plot twist, highly recommended!
+2023-12-08 20:22:44,243 - INFO - Opinia zaproponowana przez wytrenowany model: Pozytywna
+2023-12-08 20:22:44,243 - INFO - Opinia 3: Unfortunately, this book disappointed me. I had higher expectations.
+2023-12-08 20:22:44,243 - INFO - Opinia zaproponowana przez wytrenowany model: Negatywna
+2023-12-08 20:22:44,243 - INFO - Opinia 4: Poorly written, the plot didn't keep me in suspense.
+2023-12-08 20:22:44,243 - INFO - Opinia zaproponowana przez wytrenowany model: Negatywna
+2023-12-08 20:22:44,243 - INFO - Opinia 5: A masterpiece of literature! I couldn't put it down, I really recommend it.
+2023-12-08 20:22:44,243 - INFO - Opinia zaproponowana przez wytrenowany model: Pozytywna
